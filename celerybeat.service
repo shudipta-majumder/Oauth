@@ -1,0 +1,21 @@
+[Unit]
+Description=Celery Beat Service
+After=network.target celery.service
+
+[Service]
+Type=simple
+User=root
+Group=www-data
+EnvironmentFile=/etc/conf.d/celery
+WorkingDirectory=/var/www/backend/party-management-system-backend/
+ExecStart=/bin/sh -c '${CELERY_BIN} -A ${CELERY_APP} beat \
+    --pidfile=${CELERYBEAT_PID_FILE} \
+    --loglevel=${CELERYBEAT_LOG_LEVEL} \
+    --logfile=${CELERYBEAT_LOG_FILE}'
+# --scheduler=django_celery_beat.schedulers:DatabaseScheduler'
+ExecStop=/bin/systemctl kill celerybeat.service
+RemainAfterExit=yes
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

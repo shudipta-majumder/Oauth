@@ -1,0 +1,98 @@
+[
+  {
+    "fields": {
+      "bn_name": "\u09ac\u09b0\u09bf\u09b6\u09be\u09b2",
+      "created_at": "2024-01-01T00:00:00Z",
+      "lat": "22.701002",
+      "long": "90.353451",
+      "name": "Barishal",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.divisionlov",
+    "pk": "1"
+  },
+  {
+    "fields": {
+      "bn_name": "\u099a\u099f\u09cd\u099f\u0997\u09cd\u09b0\u09be\u09ae",
+      "created_at": "2024-01-01T00:00:00Z",
+      "lat": "22.356851",
+      "long": "91.783182",
+      "name": "Chittagong",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.divisionlov",
+    "pk": "2"
+  },
+  {
+    "fields": {
+      "bn_name": "\u09a2\u09be\u0995\u09be",
+      "created_at": "2024-01-01T00:00:00Z",
+      "lat": "23.810332",
+      "long": "90.412518",
+      "name": "Dhaka",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.divisionlov",
+    "pk": "3"
+  },
+  {
+    "fields": {
+      "bn_name": "\u0996\u09c1\u09b2\u09a8\u09be",
+      "created_at": "2024-01-01T00:00:00Z",
+      "lat": "22.845641",
+      "long": "89.540328",
+      "name": "Khulna",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.divisionlov",
+    "pk": "4"
+  },
+  {
+    "fields": {
+      "bn_name": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+      "created_at": "2024-01-01T00:00:00Z",
+      "lat": "24.363589",
+      "long": "88.624135",
+      "name": "Rajshahi",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.divisionlov",
+    "pk": "5"
+  },
+  {
+    "fields": {
+      "bn_name": "\u09b0\u0982\u09aa\u09c1\u09b0",
+      "created_at": "2024-01-01T00:00:00Z",
+      "lat": "25.743892",
+      "long": "89.275227",
+      "name": "Rangpur",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.divisionlov",
+    "pk": "6"
+  },
+  {
+    "fields": {
+      "bn_name": "\u09b8\u09bf\u09b2\u09c7\u099f",
+      "created_at": "2024-01-01T00:00:00Z",
+      "lat": "24.894929",
+      "long": "91.868706",
+      "name": "Sylhet",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.divisionlov",
+    "pk": "7"
+  },
+  {
+    "fields": {
+      "bn_name": "\u09ae\u09df\u09ae\u09a8\u09b8\u09bf\u0982\u09b9",
+      "created_at": "2024-01-01T00:00:00Z",
+      "lat": "24.747149",
+      "long": "90.420273",
+      "name": "Mymensingh",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.divisionlov",
+    "pk": "8"
+  }
+]

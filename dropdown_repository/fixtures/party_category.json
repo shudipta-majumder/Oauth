@@ -1,0 +1,68 @@
+[
+  {
+    "fields": {
+      "codename": "10001",
+      "created_at": "2024-01-01T00:00:00Z",
+      "is_active": true,
+      "name": "General Corporate",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.partycategorylov",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "codename": "20001",
+      "created_at": "2024-01-01T00:00:00Z",
+      "is_active": true,
+      "name": "Government",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.partycategorylov",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "codename": "30001",
+      "created_at": "2024-01-01T00:00:00Z",
+      "is_active": true,
+      "name": "PCB/PCBA",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.partycategorylov",
+    "pk": 6
+  },
+  {
+    "fields": {
+      "codename": "40001",
+      "created_at": "2024-01-01T00:00:00Z",
+      "is_active": true,
+      "name": "Education",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.partycategorylov",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "codename": "50001",
+      "created_at": "2024-01-01T00:00:00Z",
+      "is_active": true,
+      "name": "Finance",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.partycategorylov",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "codename": "60001",
+      "created_at": "2024-01-01T00:00:00Z",
+      "is_active": true,
+      "name": "eCommerce",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "dropdown_repository.partycategorylov",
+    "pk": 1
+  }
+]

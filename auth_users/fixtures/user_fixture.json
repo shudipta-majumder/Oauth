@@ -1,0 +1,85 @@
+[
+  {
+    "fields": {
+      "created_at": "2023-10-29T04:00:18.370093+00:00",
+      "designation": "admin",
+      "email": "computer.it21@waltonbd.com",
+      "first_name": "Administrator",
+      "is_management": true,
+      "is_staff": true,
+      "is_superuser": true,
+      "last_name": "",
+      "password": "pbkdf2_sha256$600000$laNHq9aVG4dqVmIg90g8gW$WzoBDt+KKLuQVYIho1bpWUhH8OSZJYdJoDiq1jOovAE=",
+      "updated_at": "2023-10-29T04:00:18.370101+00:00",
+      "userId": "supseradmin"
+    },
+    "model": "authentication.employee",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "created_at": "2023-10-29T04:00:18.370104+00:00",
+      "designation": "first sr. assitastant director",
+      "email": "computer.it21@waltonbd.com",
+      "first_name": "Jiaul Islam",
+      "is_management": false,
+      "is_staff": true,
+      "is_superuser": false,
+      "last_name": "Jibon",
+      "password": "pbkdf2_sha256$600000$laNHq9aVG4dqVmIg90g8gW$WzoBDt+KKLuQVYIho1bpWUhH8OSZJYdJoDiq1jOovAE=",
+      "updated_at": "2023-10-29T04:00:18.370106+00:00",
+      "userId": "54681"
+    },
+    "model": "authentication.employee",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "created_at": "2023-10-29T04:00:18.370108+00:00",
+      "designation": "chairman",
+      "first_name": "S.M. Rezaul",
+      "is_management": true,
+      "is_staff": true,
+      "is_superuser": false,
+      "last_name": "Alam",
+      "password": "pbkdf2_sha256$600000$laNHq9aVG4dqVmIg90g8gW$WzoBDt+KKLuQVYIho1bpWUhH8OSZJYdJoDiq1jOovAE=",
+      "updated_at": "2023-10-29T04:00:18.370110+00:00",
+      "userId": "M006"
+    },
+    "model": "authentication.employee",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "created_at": "2023-10-29T04:00:18.370112+00:00",
+      "designation": "amd",
+      "first_name": "Md. Liakat",
+      "is_management": true,
+      "is_staff": false,
+      "is_superuser": false,
+      "last_name": "Ali",
+      "password": "pbkdf2_sha256$600000$laNHq9aVG4dqVmIg90g8gW$WzoBDt+KKLuQVYIho1bpWUhH8OSZJYdJoDiq1jOovAE=",
+      "updated_at": "2023-10-29T04:00:18.370113+00:00",
+      "userId": "3013"
+    },
+    "model": "authentication.employee",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "created_at": "2023-10-29T04:00:18.370115+00:00",
+      "email": "touhidur37124@waltonbd.com",
+      "first_name": "Md. Touhidur Rahman",
+      "is_management": true,
+      "is_staff": false,
+      "is_superuser": false,
+      "last_name": "Rad",
+      "mobile": "+8801686690900",
+      "password": "pbkdf2_sha256$600000$laNHq9aVG4dqVmIg90g8gW$WzoBDt+KKLuQVYIho1bpWUhH8OSZJYdJoDiq1jOovAE=",
+      "updated_at": "2023-10-29T04:00:18.370117+00:00",
+      "userId": "37124"
+    },
+    "model": "authentication.employee",
+    "pk": 5
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "fields": {
+      "backward_step": 1,
+      "codename": "INCHARGE",
+      "created_at": "2024-01-01T00:00:00Z",
+      "forward_step": 2,
+      "process": "new_code_all_ok",
+      "system": "pms",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "recommendation_engine.approvalstep",
+    "pk": 82
+  },
+  {
+    "fields": {
+      "backward_step": 3,
+      "codename": "DHOS",
+      "created_at": "2024-01-01T00:00:00Z",
+      "forward_step": 4,
+      "process": "new_code_all_ok",
+      "system": "pms",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "recommendation_engine.approvalstep",
+    "pk": 83
+  },
+  {
+    "fields": {
+      "backward_step": 5,
+      "codename": "LOGISTICS",
+      "created_at": "2024-01-01T00:00:00Z",
+      "forward_step": 6,
+      "process": "new_code_all_ok",
+      "system": "pms",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "recommendation_engine.approvalstep",
+    "pk": 84
+  },
+  {
+    "fields": {
+      "backward_step": 7,
+      "codename": "CREDIT_MONITORING",
+      "created_at": "2024-01-01T00:00:00Z",
+      "forward_step": 8,
+      "process": "new_code_all_ok",
+      "system": "pms",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "recommendation_engine.approvalstep",
+    "pk": 85
+  },
+  {
+    "fields": {
+      "backward_step": 9,
+      "codename": "EBS",
+      "created_at": "2024-01-01T00:00:00Z",
+      "forward_step": 10,
+      "process": "new_code_all_ok",
+      "system": "pms",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "recommendation_engine.approvalstep",
+    "pk": 86
+  }
+]

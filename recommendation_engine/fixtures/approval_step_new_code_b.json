@@ -1,0 +1,93 @@
+[
+  {
+    "fields": {
+      "backward_step": 1,
+      "codename": "INCHARGE",
+      "created_at": "2024-01-01T00:00:00Z",
+      "forward_step": 2,
+      "process": "new_code_partial_ok",
+      "system": "pms",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "recommendation_engine.approvalstep",
+    "pk": 87
+  },
+  {
+    "fields": {
+      "backward_step": 3,
+      "codename": "DHOS",
+      "created_at": "2024-01-01T00:00:00Z",
+      "forward_step": 4,
+      "process": "new_code_partial_ok",
+      "system": "pms",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "recommendation_engine.approvalstep",
+    "pk": 88
+  },
+  {
+    "fields": {
+      "backward_step": 5,
+      "codename": "LOGISTICS",
+      "created_at": "2024-01-01T00:00:00Z",
+      "forward_step": 6,
+      "process": "new_code_partial_ok",
+      "system": "pms",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "recommendation_engine.approvalstep",
+    "pk": 89
+  },
+  {
+    "fields": {
+      "backward_step": 7,
+      "codename": "CREDIT_MONITORING",
+      "created_at": "2024-01-01T00:00:00Z",
+      "forward_step": 8,
+      "process": "new_code_partial_ok",
+      "system": "pms",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "recommendation_engine.approvalstep",
+    "pk": 90
+  },
+  {
+    "fields": {
+      "backward_step": 9,
+      "codename": "CBO",
+      "created_at": "2024-01-01T00:00:00Z",
+      "forward_step": 10,
+      "process": "new_code_partial_ok",
+      "system": "pms",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "recommendation_engine.approvalstep",
+    "pk": 91
+  },
+  {
+    "fields": {
+      "backward_step": 11,
+      "codename": "AMD",
+      "created_at": "2024-01-01T00:00:00Z",
+      "forward_step": 12,
+      "process": "new_code_partial_ok",
+      "system": "pms",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "recommendation_engine.approvalstep",
+    "pk": 92
+  },
+  {
+    "fields": {
+      "backward_step": 11,
+      "codename": "EBS",
+      "created_at": "2024-01-01T00:00:00Z",
+      "forward_step": 14,
+      "process": "new_code_partial_ok",
+      "system": "pms",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    "model": "recommendation_engine.approvalstep",
+    "pk": 93
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 1,
+      "name": "Barishal City",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 1,
+      "name": "Barguna",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 1,
+      "name": "Bhola",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 1,
+      "name": "Jhalokati",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 1,
+      "name": "Patuakhali",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 1,
+      "name": "Pirojpur",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 6
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 3,
+      "name": "Dhaka City",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 7
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 3,
+      "name": "Faridpur",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 8
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 3,
+      "name": "Gazipur",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 9
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 3,
+      "name": "Gopalganj",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 10
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 3,
+      "name": "Madaripur",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 11
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 3,
+      "name": "Kishoreganj",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 12
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 3,
+      "name": "Manikganj",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 13
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 3,
+      "name": "Munshiganj",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 14
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 3,
+      "name": "Narayanganj",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 15
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 3,
+      "name": "Narsingdi",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 16
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 3,
+      "name": "Rajbari",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 17
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 3,
+      "name": "Shariatpur",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 18
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 3,
+      "name": "Tangail",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 19
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 2,
+      "name": "Chittagong City",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 20
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 2,
+      "name": "Bandarban",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 21
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 2,
+      "name": "Brahmanbaria",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 22
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 2,
+      "name": "Chandpur",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 23
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 2,
+      "name": "Comilla",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 24
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 2,
+      "name": "Cox's Bazar",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 25
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 2,
+      "name": "Feni",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 26
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 2,
+      "name": "Khagrachhari",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 27
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 2,
+      "name": "Lakshmipur",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 28
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 2,
+      "name": "Noakhali",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 29
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 2,
+      "name": "Rangamati",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 30
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 7,
+      "name": "Sylhet City",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 30
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 7,
+      "name": "Habiganj",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 31
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 7,
+      "name": "Moulvibazar",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 32
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 7,
+      "name": "Sunamganj",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 33
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 4,
+      "name": "Khulna City",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 34
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 4,
+      "name": "Bagerhat",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 35
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 4,
+      "name": "Chuadanga",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 36
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 4,
+      "name": "Jashore",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 37
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 4,
+      "name": "Jhenaidah",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 38
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 4,
+      "name": "Kushtia",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 39
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 4,
+      "name": "Magura",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 40
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 4,
+      "name": "Meherpur",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 41
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 4,
+      "name": "Narail",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 42
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 4,
+      "name": "Satkhira",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 43
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 5,
+      "name": "Rajshahi City",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 44
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 5,
+      "name": "Bogura",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 45
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 5,
+      "name": "Joypurhat",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 46
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 5,
+      "name": "Naogaon",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 47
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 5,
+      "name": "Natore",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 48
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 5,
+      "name": "Chapai Nawabganj",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 49
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 5,
+      "name": "Pabna",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 50
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 5,
+      "name": "Sirajganj",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 51
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 6,
+      "name": "Rangpur City",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 52
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 6,
+      "name": "Dinajpur",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 53
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 6,
+      "name": "Gaibandha",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 54
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 6,
+      "name": "Kurigram",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 55
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 6,
+      "name": "Lalmonirhat",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 56
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 6,
+      "name": "Nilphamari",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 57
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 6,
+      "name": "Panchagarh",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 58
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 6,
+      "name": "Thakurgaon",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 59
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 8,
+      "name": "Mymensingh City",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 60
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 8,
+      "name": "Jamalpur",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 61
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 8,
+      "name": "Netrokona",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 62
+  },
+  {
+    "fields": {
+      "created_at": "2024-01-01 00:00:00",
+      "division": 8,
+      "name": "Sherpur",
+      "updated_at": "2024-01-01 00:00:00"
+    },
+    "model": "dropdown_repository.districtlov",
+    "pk": 63
+  }
+]

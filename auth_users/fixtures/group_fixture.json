@@ -1,0 +1,44 @@
+[
+  {
+    "fields": {
+      "name": "Incharge"
+    },
+    "model": "auth.group",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "name": "HOD"
+    },
+    "model": "auth.group",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "name": "Accounts"
+    },
+    "model": "auth.group",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "name": "CBO"
+    },
+    "model": "auth.group",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "name": "AMD"
+    },
+    "model": "auth.group",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "name": "Chairman"
+    },
+    "model": "auth.group",
+    "pk": 6
+  }
+]
