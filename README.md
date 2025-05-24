@@ -1,12 +1,6 @@
-# 📑 One Stop Solution (OSS)
+# 📑 OAuth (SSO)
 
-This is a RestAPI for the *One Stop Solution (OSS)*, built using Django and Django Rest Framework (DRF).
-
-## Features
-
-- Digital Party Management System (Ongoing)
-- Corporate Price Quotation (Pending Integration)
-- Guest Management System (Pending Integration)
+This is a RestAPI for the *SSO*, built using Django and Django Rest Framework (DRF).
 
 ## Getting Started
 
